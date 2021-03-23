@@ -6,7 +6,9 @@ Participated in AnDi challenge as a DeepSPT team.
 
 ------------ 
 Taegeun Song(1),(2) Chang Beom Hong(1), and Jae-Hyung Jeon(1)
+
 (1) Department of Physics, Pohang University of Science and Technology Pohang, Korea
+
 (2) Center for AI and Natural Sciences, Korea Institute for Advanced Study, Korea
 
 ResNet-MLP + XGBoost
